@@ -82,7 +82,7 @@ Offline-first productivity system designed to help users prioritize, execute, an
 | [Stardust Typer](https://stardusttyper.netlify.app/) | Typing game |
 | [Weather Dashboard](https://weather-dashboard-codeveda.netlify.app/) | Weather client |
 | [CodeVeda Portfolio](https://codeveda-portfolio.netlify.app/) | Portfolio site |
-| HaloTasks | Early prototype |
+| [HaloTasks](https://halotasks.netlify.app/) | To Do Manager |
 
 <br>
 
