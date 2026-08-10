@@ -27,7 +27,7 @@ Knowledge-driven environment for exploring engineering through connected softwar
 
 `Next.js` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion`
 
-→ [Architecture](#)
+→ [Architecture](https://github.com/Mystify7777/Mystify/tree/master/Documentation)
 
 <br>
 
@@ -109,7 +109,7 @@ Offline-first productivity system designed to help users prioritize, execute, an
 
 ## Currently Building
 
-Mystify Observatory &nbsp;·&nbsp; [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) &nbsp;·&nbsp; [DevLens](https://github.com/Mystify7777/devlens)
+[Mystify Observatory](https://github.com/Mystify7777/Mystify) &nbsp;·&nbsp; [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) &nbsp;·&nbsp; [DevLens](https://github.com/Mystify7777/devlens)
 
 <br>
 
