@@ -46,19 +46,6 @@ Offline-first productivity system designed to help users prioritize, execute, an
 
 → [Repository](https://github.com/Mystify7777/Halotask-Pro) &nbsp;·&nbsp; [Live](https://halotask-pro.vercel.app/)
 
-### 03 — DevLens
-`active`
-
-Developer tooling and diagnostics platform.
-
-- Unified event pipeline across runtime, console, network, and React capture
-- Independent event storage and inspection
-- Session export/import and extensible plugin architecture
-
-`TypeScript` `React` `Vite` `Vitest`
-
-→ [Repository](https://github.com/Mystify7777/devlens)
-
 ---
 
 ## Portfolio
@@ -67,8 +54,9 @@ Projects that provide additional engineering breadth without competing with the 
 
 | Project | Portfolio role | Status |
 |---|---|---|
-| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | Active development |
+| [DevLens](https://github.com/Mystify7777/devlens) | Developer tooling · observability | Active development |
 | [StockSphere](https://github.com/Mystify7777/StockSphere) | Enterprise platform · backend engineering | Secondary |
+| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | Active development |
 | [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Early architectural/experimental work | Early / experimental |
 
 ---
