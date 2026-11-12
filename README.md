@@ -1,3 +1,4 @@
+<!-- structure established in Issue #1; detailed copy is intentionally deferred -->
 <div align="center">
 
 # Aryan Kumar
@@ -10,13 +11,20 @@
 
 </div>
 
-<br>
+---
+
+## Engineering Focus
+
+<!-- Later issue: replace with verified engineering themes supported by the projects. -->
+> **Placeholder:** concise engineering positioning and recurring engineering themes.
+
+---
 
 ## Featured Work
 
-<br>
+<!-- Current featured set preserved from the existing README. Detailed copy can be refined later. -->
 
-**01 — Mystify Observatory**
+### 01 — Mystify Observatory
 `experimental`
 
 Knowledge-driven environment for exploring engineering through connected software artifacts.
@@ -29,9 +37,7 @@ Knowledge-driven environment for exploring engineering through connected softwar
 
 → [Architecture](https://github.com/Mystify7777/Mystify/tree/master/Documentation)
 
-<br>
-
-**02 — CyberShield**
+### 02 — CyberShield
 `active`
 
 Trust intelligence platform for assessing suspicious digital targets through layered security analysis.
@@ -44,9 +50,7 @@ Trust intelligence platform for assessing suspicious digital targets through lay
 
 → [Repository](https://github.com/Mystify7777/CyberShield) &nbsp;·&nbsp; [Live](https://cyber-shield-eight.vercel.app/) &nbsp;·&nbsp; [Docs](https://github.com/Mystify7777/CyberShield/tree/main/docs)
 
-<br>
-
-**03 — HaloTask Pro**
+### 03 — HaloTask Pro
 `active`
 
 Offline-first productivity system designed to help users prioritize, execute, and stay consistent.
@@ -59,36 +63,32 @@ Offline-first productivity system designed to help users prioritize, execute, an
 
 → [Repository](https://github.com/Mystify7777/Halotask-Pro) &nbsp;·&nbsp; [Live](https://halotask-pro.vercel.app/)
 
-<br>
+---
+
+## Supporting Work
+
+Projects that provide additional evidence of engineering breadth without competing with the primary featured set.
+
+| Project | Role in the portfolio |
+|---|---|
+| [DevLens](https://github.com/Mystify7777/devlens) | Developer tooling · observability |
+| [StockSphere](https://github.com/Mystify7777/StockSphere) | Enterprise platform · backend engineering |
+| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems |
 
 ---
 
-<br>
+## Archive
 
-## Portfolio
+Earlier or smaller projects retained for breadth and history. They remain discoverable without receiving the same visual weight as current portfolio evidence.
 
-**Core**
-
-| | |
-|---|---|
-| [DevLens](https://github.com/Mystify7777/devlens) | Developer tool |
-| [StockSphere](https://github.com/Mystify7777/StockSphere) | Enterprise platform |
-| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | AI · GIS · Sustainability |
-
-**Legacy**
-
-| | |
+| Project | Description |
 |---|---|
 | [Stardust Typer](https://stardusttyper.netlify.app/) | Typing game |
 | [Weather Dashboard](https://weather-dashboard-codeveda.netlify.app/) | Weather client |
 | [CodeVeda Portfolio](https://codeveda-portfolio.netlify.app/) | Portfolio site |
 | [HaloTasks](https://halotasks.netlify.app/) | To Do Manager |
 
-<br>
-
 ---
-
-<br>
 
 ## Technology
 
@@ -101,22 +101,20 @@ Offline-first productivity system designed to help users prioritize, execute, an
 | **Infrastructure** | `Docker` `GitHub Actions` |
 | **Engineering Practices** | Testing · CI/CD · API Design · Developer Tooling |
 
-<br>
+<!-- Later issue: verify and reduce this list against current repository evidence. -->
 
 ---
 
-<br>
+## Current Work
 
-## Currently Building
+<!-- Status is separate from portfolio tier. A project can be featured/supporting and active simultaneously. -->
 
 [Mystify Observatory](https://github.com/Mystify7777/Mystify) &nbsp;·&nbsp; [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) &nbsp;·&nbsp; [DevLens](https://github.com/Mystify7777/devlens)
 
-<br>
-
 ---
 
-<div align="center">
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-mystify7777/) &nbsp;·&nbsp; [Email](mailto:aryan.k.dev.mystify@gmail.com)
 
-</div>
+<!-- Later issue: decide whether Resume belongs here or remains in the identity block. -->
