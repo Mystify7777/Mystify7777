@@ -1,6 +1,3 @@
-<!-- structure established in Issue #1; detailed copy is intentionally deferred -->
-<div align="center">
-
 # Aryan Kumar
 
 **Software Engineer**
@@ -9,19 +6,11 @@
 
 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-mystify7777/) &nbsp;·&nbsp; [Resume](https://drive.google.com/file/d/1YvoyROrodbXUQilMZA5IWKWNBi_uHnp2/view?usp=sharing) &nbsp;·&nbsp; [Email](mailto:aryan.k.dev.mystify@gmail.com)
 
-</div>
-
 ---
 
 ## Featured Work
 
-<!--
-Flagship tier: projects with substantial implementation depth and concrete
-engineering evidence. Development status is tracked separately below.
--->
-
 ### 01 — CyberShield
-`active`
 
 Trust intelligence platform for assessing suspicious digital targets through layered security analysis.
 
@@ -34,7 +23,6 @@ Trust intelligence platform for assessing suspicious digital targets through lay
 → [Repository](https://github.com/Mystify7777/CyberShield) &nbsp;·&nbsp; [Live](https://cyber-shield-eight.vercel.app/) &nbsp;·&nbsp; [Docs](https://github.com/Mystify7777/CyberShield/tree/main/docs)
 
 ### 02 — HaloTask Pro
-`active`
 
 Offline-first productivity system designed to help users prioritize, execute, and stay consistent.
 
@@ -46,6 +34,18 @@ Offline-first productivity system designed to help users prioritize, execute, an
 
 → [Repository](https://github.com/Mystify7777/Halotask-Pro) &nbsp;·&nbsp; [Live](https://halotask-pro.vercel.app/)
 
+### 03 — StockSphere
+
+Multi-tenant inventory management platform for shop owners with optional public storefront discovery.
+
+- Multi-shop inventory management
+- JWT authentication, role-based access control, and tenant isolation
+- Spring Boot modular monolith with React frontend
+
+`Java` `Spring Boot` `MySQL` `React`
+
+→ [Repository](https://github.com/Mystify7777/StockSphere) &nbsp;·&nbsp; [Live](https://stock-sphere-sable.vercel.app/)
+
 ---
 
 ## Portfolio
@@ -54,9 +54,8 @@ Projects that provide additional engineering breadth without competing with the 
 
 | Project | Portfolio role | Status |
 |---|---|---|
-| [DevLens](https://github.com/Mystify7777/devlens) | Developer tooling · observability | Active development |
-| [StockSphere](https://github.com/Mystify7777/StockSphere) | Enterprise platform · backend engineering | Secondary |
-| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | Active development |
+| [DevLens](https://github.com/Mystify7777/devlens) | Developer tooling · observability | In development |
+| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | In development |
 | [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Early architectural/experimental work | Early / experimental |
 
 ---
@@ -85,16 +84,9 @@ Earlier or smaller projects retained for breadth and history. They remain discov
 | **Infrastructure** | `Docker` `GitHub Actions` |
 | **Engineering Practices** | Testing · CI/CD · API Design · Developer Tooling |
 
-<!-- Later issue: verify and reduce this list against current repository evidence. -->
-
 ---
 
 ## Current Work
-
-<!--
-Current Work is independent of portfolio tier. A project may be active here
-without being flagship, and flagship status does not imply current activity.
--->
 
 [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) &nbsp;·&nbsp; [DevLens](https://github.com/Mystify7777/devlens) &nbsp;·&nbsp; [HaloTask Pro](https://github.com/Mystify7777/Halotask-Pro)
 
@@ -103,5 +95,3 @@ without being flagship, and flagship status does not imply current activity.
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-mystify7777/) &nbsp;·&nbsp; [Email](mailto:aryan.k.dev.mystify@gmail.com)
-
-<!-- Later issue: decide whether Resume belongs here or remains in the identity block. -->
