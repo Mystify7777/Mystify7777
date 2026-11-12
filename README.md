@@ -10,29 +10,11 @@
 
 </div>
 
-<br>
+---
 
 ## Featured Work
 
-<br>
-
-**01 — Mystify Observatory**
-`experimental`
-
-Knowledge-driven environment for exploring engineering through connected software artifacts.
-
-- Multi-perspective engineering presentation
-- Registry-backed engineering knowledge
-- Evidence-driven system inspection
-
-`Next.js` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion`
-
-→ [Architecture](https://github.com/Mystify7777/Mystify/tree/master/Documentation)
-
-<br>
-
-**02 — CyberShield**
-`active`
+### 01 — CyberShield
 
 Trust intelligence platform for assessing suspicious digital targets through layered security analysis.
 
@@ -44,10 +26,7 @@ Trust intelligence platform for assessing suspicious digital targets through lay
 
 → [Repository](https://github.com/Mystify7777/CyberShield) &nbsp;·&nbsp; [Live](https://cyber-shield-eight.vercel.app/) &nbsp;·&nbsp; [Docs](https://github.com/Mystify7777/CyberShield/tree/main/docs)
 
-<br>
-
-**03 — HaloTask Pro**
-`active`
+### 02 — HaloTask Pro
 
 Offline-first productivity system designed to help users prioritize, execute, and stay consistent.
 
@@ -59,36 +38,40 @@ Offline-first productivity system designed to help users prioritize, execute, an
 
 → [Repository](https://github.com/Mystify7777/Halotask-Pro) &nbsp;·&nbsp; [Live](https://halotask-pro.vercel.app/)
 
-<br>
+### 03 — StockSphere
+
+Multi-tenant inventory management platform for shop owners with optional public storefront discovery.
+
+`Java` `Spring Boot` `MySQL` `React`
+
+→ [Repository](https://github.com/Mystify7777/StockSphere) &nbsp;·&nbsp; [Live](https://stock-sphere-sable.vercel.app/)
 
 ---
 
-<br>
-
 ## Portfolio
 
-**Core**
+Projects that provide additional engineering breadth without competing with the flagship tier.
 
-| | |
-|---|---|
-| [DevLens](https://github.com/Mystify7777/devlens) | Developer tool |
-| [StockSphere](https://github.com/Mystify7777/StockSphere) | Enterprise platform |
-| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | AI · GIS · Sustainability |
+| Project | Portfolio role | Status |
+|---|---|---|
+| [DevLens](https://github.com/Mystify7777/devlens) | Developer tooling · observability | Early |
+| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | Developing |
+| [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Early architectural/experimental work | Early / experimental |
 
-**Legacy**
+---
 
-| | |
+## Archive
+
+Earlier or smaller projects retained for breadth and history. They remain discoverable without receiving the same visual weight as current portfolio evidence.
+
+| Project | Description |
 |---|---|
 | [Stardust Typer](https://stardusttyper.netlify.app/) | Typing game |
 | [Weather Dashboard](https://weather-dashboard-codeveda.netlify.app/) | Weather client |
 | [CodeVeda Portfolio](https://codeveda-portfolio.netlify.app/) | Portfolio site |
 | [HaloTasks](https://halotasks.netlify.app/) | To Do Manager |
 
-<br>
-
 ---
-
-<br>
 
 ## Technology
 
@@ -101,22 +84,14 @@ Offline-first productivity system designed to help users prioritize, execute, an
 | **Infrastructure** | `Docker` `GitHub Actions` |
 | **Engineering Practices** | Testing · CI/CD · API Design · Developer Tooling |
 
-<br>
+---
+
+## Current Work
+
+[AquaVeda](https://github.com/Mystify7777/aquaveda-v2) &nbsp;·&nbsp; [DevLens](https://github.com/Mystify7777/devlens) &nbsp;·&nbsp; [HaloTask Pro](https://github.com/Mystify7777/Halotask-Pro)
 
 ---
 
-<br>
-
-## Currently Building
-
-[Mystify Observatory](https://github.com/Mystify7777/Mystify) &nbsp;·&nbsp; [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) &nbsp;·&nbsp; [DevLens](https://github.com/Mystify7777/devlens)
-
-<br>
-
----
-
-<div align="center">
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-mystify7777/) &nbsp;·&nbsp; [Email](mailto:aryan.k.dev.mystify@gmail.com)
-
-</div>
