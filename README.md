@@ -54,8 +54,8 @@ Projects that provide additional engineering breadth without competing with the 
 
 | Project | Portfolio role | Status |
 |---|---|---|
-| [DevLens](https://github.com/Mystify7777/devlens) | Developer tooling · observability | In development |
-| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | In development |
+| [DevLens](https://github.com/Mystify7777/devlens) | Developer tooling · observability | Early |
+| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | Developing |
 | [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Early architectural/experimental work | Early / experimental |
 
 ---
