@@ -14,7 +14,7 @@
 
 ## Featured Work
 
-### 01 — CyberShield
+### CyberShield
 
 Trust intelligence platform for assessing suspicious digital targets through layered security analysis.
 
@@ -24,9 +24,11 @@ Trust intelligence platform for assessing suspicious digital targets through lay
 
 `React` `Express` `MongoDB` `FastAPI`
 
-→ [Repository](https://github.com/Mystify7777/CyberShield) &nbsp;·&nbsp; [Live](https://cyber-shield-eight.vercel.app/) &nbsp;·&nbsp; [Docs](https://github.com/Mystify7777/CyberShield/tree/main/docs)
+[Repository](https://github.com/Mystify7777/CyberShield) &nbsp;·&nbsp; [Live](https://cyber-shield-eight.vercel.app/) &nbsp;·&nbsp; [Docs](https://github.com/Mystify7777/CyberShield/tree/main/docs)
 
-### 02 — HaloTask Pro
+---
+
+### HaloTask Pro
 
 Offline-first productivity system built around reliable task execution across unreliable network conditions.
 
@@ -36,9 +38,11 @@ Offline-first productivity system built around reliable task execution across un
 
 `React` `TypeScript` `Node.js` `Express` `MongoDB`
 
-→ [Repository](https://github.com/Mystify7777/Halotask-Pro) &nbsp;·&nbsp; [Live](https://halotask-pro.vercel.app/)
+[Repository](https://github.com/Mystify7777/Halotask-Pro) &nbsp;·&nbsp; [Live](https://halotask-pro.vercel.app/)
 
-### 03 — StockSphere
+---
+
+### StockSphere
 
 Multi-tenant inventory platform for shop owners with separate shop management and optional public storefront discovery.
 
@@ -48,7 +52,7 @@ Multi-tenant inventory platform for shop owners with separate shop management an
 
 `Java` `Spring Boot` `MySQL` `React`
 
-→ [Repository](https://github.com/Mystify7777/StockSphere) &nbsp;·&nbsp; [Live](https://stock-sphere-sable.vercel.app/)
+[Repository](https://github.com/Mystify7777/StockSphere) &nbsp;·&nbsp; [Live](https://stock-sphere-sable.vercel.app/)
 
 ---
 
@@ -92,7 +96,7 @@ Earlier or smaller projects retained for breadth and history.
 
 ## Current Work
 
-[AquaVeda](https://github.com/Mystify7777/aquaveda-v2) &nbsp;·&nbsp; [DevLens](https://github.com/Mystify7777/devlens) &nbsp;·&nbsp; [HaloTask Pro](https://github.com/Mystify7777/Halotask-Pro)
+**[AquaVeda](https://github.com/Mystify7777/aquaveda-v2)** &nbsp;·&nbsp; **[DevLens](https://github.com/Mystify7777/devlens)** &nbsp;·&nbsp; **[HaloTask Pro](https://github.com/Mystify7777/Halotask-Pro)**
 
 ---
 
