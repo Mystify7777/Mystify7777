@@ -18,9 +18,9 @@
 
 Trust intelligence platform for assessing suspicious digital targets through layered security analysis.
 
-- Aggregates TLS, security-header, DNS, and reputation evidence into explainable risk assessments
-- Separates the web client, API, and FastAPI AI service around a defined analysis boundary
-- Produces confidence-aware scores, factor breakdowns, historical reports, and PDF exports
+- Explainable website risk scoring
+- Layered analysis across TLS, headers, DNS, and reputation
+- Evidence-backed reports with confidence and factor breakdowns
 
 `React` `Express` `MongoDB` `FastAPI`
 
@@ -28,11 +28,11 @@ Trust intelligence platform for assessing suspicious digital targets through lay
 
 ### 02 — HaloTask Pro
 
-Offline-first productivity system built around reliable task execution across unreliable network conditions.
+Offline-first productivity system designed to help users prioritize, execute, and stay consistent.
 
-- Persists client state locally with IndexedDB and queues writes while offline
-- Reconciles queued changes and completion events as connectivity returns
-- Combines task prioritization, reminders, history, and recovery workflows into one stateful product
+- Offline-first task synchronization
+- Intelligent prioritization and reminder workflows
+- Growth-based productivity feedback
 
 `React` `TypeScript` `Node.js` `Express` `MongoDB`
 
@@ -40,11 +40,7 @@ Offline-first productivity system built around reliable task execution across un
 
 ### 03 — StockSphere
 
-Multi-tenant inventory platform for shop owners with separate shop management and optional public storefront discovery.
-
-- Isolates shop and product operations by authenticated owner context
-- Uses JWT authentication, role-based access control, and relational persistence
-- Exposes inventory, product, dashboard, and public-store workflows through a Spring Boot API
+Multi-tenant inventory management platform for shop owners with optional public storefront discovery.
 
 `Java` `Spring Boot` `MySQL` `React`
 
@@ -54,19 +50,19 @@ Multi-tenant inventory platform for shop owners with separate shop management an
 
 ## Portfolio
 
-Projects that add engineering breadth without competing with the flagship tier.
+Projects that provide additional engineering breadth without competing with the flagship tier.
 
 | Project | Portfolio role | Status |
 |---|---|---|
-| [DevLens](https://github.com/Mystify7777/devlens) | Developer diagnostics · event-driven tooling | Maturing |
+| [DevLens](https://github.com/Mystify7777/devlens) | Developer tooling · observability | Early |
 | [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | Developing |
-| [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Architecture · systems modeling · experimental presentation | Early / experimental |
+| [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Early architectural/experimental work | Early / experimental |
 
 ---
 
 ## Archive
 
-Earlier or smaller projects retained for breadth and history.
+Earlier or smaller projects retained for breadth and history. They remain discoverable without receiving the same visual weight as current portfolio evidence.
 
 | Project | Description |
 |---|---|
