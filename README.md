@@ -1,4 +1,3 @@
-<!-- structure established in Issue #1; detailed copy is intentionally deferred -->
 <div align="center">
 
 # Aryan Kumar
