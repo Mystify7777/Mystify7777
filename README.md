@@ -13,31 +13,14 @@
 
 ---
 
-## Engineering Focus
-
-<!-- Later issue: replace with verified engineering themes supported by the projects. -->
-> **Placeholder:** concise engineering positioning and recurring engineering themes.
-
----
-
 ## Featured Work
 
-<!-- Current featured set preserved from the existing README. Detailed copy can be refined later. -->
+<!--
+Flagship tier: projects with substantial implementation depth and concrete
+engineering evidence. Development status is tracked separately below.
+-->
 
-### 01 — Mystify Observatory
-`experimental`
-
-Knowledge-driven environment for exploring engineering through connected software artifacts.
-
-- Multi-perspective engineering presentation
-- Registry-backed engineering knowledge
-- Evidence-driven system inspection
-
-`Next.js` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion`
-
-→ [Architecture](https://github.com/Mystify7777/Mystify/tree/master/Documentation)
-
-### 02 — CyberShield
+### 01 — CyberShield
 `active`
 
 Trust intelligence platform for assessing suspicious digital targets through layered security analysis.
@@ -50,7 +33,7 @@ Trust intelligence platform for assessing suspicious digital targets through lay
 
 → [Repository](https://github.com/Mystify7777/CyberShield) &nbsp;·&nbsp; [Live](https://cyber-shield-eight.vercel.app/) &nbsp;·&nbsp; [Docs](https://github.com/Mystify7777/CyberShield/tree/main/docs)
 
-### 03 — HaloTask Pro
+### 02 — HaloTask Pro
 `active`
 
 Offline-first productivity system designed to help users prioritize, execute, and stay consistent.
@@ -63,17 +46,30 @@ Offline-first productivity system designed to help users prioritize, execute, an
 
 → [Repository](https://github.com/Mystify7777/Halotask-Pro) &nbsp;·&nbsp; [Live](https://halotask-pro.vercel.app/)
 
+### 03 — DevLens
+`active`
+
+Developer tooling and diagnostics platform.
+
+- Unified event pipeline across runtime, console, network, and React capture
+- Independent event storage and inspection
+- Session export/import and extensible plugin architecture
+
+`TypeScript` `React` `Vite` `Vitest`
+
+→ [Repository](https://github.com/Mystify7777/devlens)
+
 ---
 
-## Supporting Work
+## Portfolio
 
-Projects that provide additional evidence of engineering breadth without competing with the primary featured set.
+Projects that provide additional engineering breadth without competing with the flagship tier.
 
-| Project | Role in the portfolio |
-|---|---|
-| [DevLens](https://github.com/Mystify7777/devlens) | Developer tooling · observability |
-| [StockSphere](https://github.com/Mystify7777/StockSphere) | Enterprise platform · backend engineering |
-| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems |
+| Project | Portfolio role | Status |
+|---|---|---|
+| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | Active development |
+| [StockSphere](https://github.com/Mystify7777/StockSphere) | Enterprise platform · backend engineering | Secondary |
+| [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Early architectural/experimental work | Early / experimental |
 
 ---
 
@@ -107,9 +103,12 @@ Earlier or smaller projects retained for breadth and history. They remain discov
 
 ## Current Work
 
-<!-- Status is separate from portfolio tier. A project can be featured/supporting and active simultaneously. -->
+<!--
+Current Work is independent of portfolio tier. A project may be active here
+without being flagship, and flagship status does not imply current activity.
+-->
 
-[Mystify Observatory](https://github.com/Mystify7777/Mystify) &nbsp;·&nbsp; [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) &nbsp;·&nbsp; [DevLens](https://github.com/Mystify7777/devlens)
+[AquaVeda](https://github.com/Mystify7777/aquaveda-v2) &nbsp;·&nbsp; [DevLens](https://github.com/Mystify7777/devlens) &nbsp;·&nbsp; [HaloTask Pro](https://github.com/Mystify7777/Halotask-Pro)
 
 ---
 
