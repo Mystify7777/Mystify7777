@@ -1,3 +1,6 @@
+<!-- structure established in Issue #1; detailed copy is intentionally deferred -->
+<div align="center">
+
 # Aryan Kumar
 
 **Software Engineer**
@@ -5,6 +8,8 @@
 *Building systems that remain understandable as they grow.*
 
 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-mystify7777/) &nbsp;·&nbsp; [Resume](https://drive.google.com/file/d/1YvoyROrodbXUQilMZA5IWKWNBi_uHnp2/view?usp=sharing) &nbsp;·&nbsp; [Email](mailto:aryan.k.dev.mystify@gmail.com)
+
+</div>
 
 ---
 
@@ -37,10 +42,6 @@ Offline-first productivity system designed to help users prioritize, execute, an
 ### 03 — StockSphere
 
 Multi-tenant inventory management platform for shop owners with optional public storefront discovery.
-
-- Multi-shop inventory management
-- JWT authentication, role-based access control, and tenant isolation
-- Spring Boot modular monolith with React frontend
 
 `Java` `Spring Boot` `MySQL` `React`
 
