@@ -84,10 +84,10 @@ Earlier or smaller projects retained for breadth and history.
 |---|---|
 | **Languages** | `Java` `TypeScript` `JavaScript` `Python` |
 | **Frontend** | `React` `Next.js` `Vite` `Tailwind CSS` |
-| **Backend** | `Node.js` `Express` `Spring Boot` |
-| **Data** | `MongoDB` `MySQL` |
-| **Infrastructure** | `Docker` `GitHub Actions` |
-| **Engineering Practices** | Testing · CI/CD · API Design · Developer Tooling |
+| **Backend** | `Node.js` `Express` `Spring Boot` `FastAPI` |
+| **Data & Storage** | `MongoDB` `MySQL` `IndexedDB` |
+| **Infrastructure & Tooling** | `Docker` `GitHub Actions` |
+| **Engineering Practices** | Testing · CI/CD · API Design · Authentication & Authorization · Offline-first Systems · Event-driven Architecture |
 
 ---
 
