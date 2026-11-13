@@ -4,7 +4,7 @@
 
 **Software Engineer**
 
-*Building systems that remain understandable as they grow.*
+*Building full-stack systems with clear boundaries, reliable state, and explicit failure handling.*
 
 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-mystify7777/) &nbsp;·&nbsp; [Resume](https://drive.google.com/file/d/1YvoyROrodbXUQilMZA5IWKWNBi_uHnp2/view?usp=sharing) &nbsp;·&nbsp; [Email](mailto:aryan.k.dev.mystify@gmail.com)
 
@@ -19,8 +19,8 @@
 Trust intelligence platform for assessing suspicious digital targets through layered security analysis.
 
 - Aggregates TLS, security-header, DNS, and reputation evidence into explainable risk assessments
-- Separates the web client, API, and FastAPI AI service around a defined analysis boundary
-- Produces confidence-aware scores, factor breakdowns, historical reports, and PDF exports
+- Separates the React client, Express API, and FastAPI AI service into distinct runtime responsibilities
+- Connects collected evidence to explainable scoring, historical assessments, and PDF reports
 
 `React` `Express` `MongoDB` `FastAPI`
 
@@ -34,7 +34,7 @@ Offline-first productivity system built around reliable task execution across un
 
 - Persists client state locally with IndexedDB and queues writes while offline
 - Reconciles queued changes and completion events as connectivity returns
-- Combines task prioritization, reminders, history, and recovery workflows into one stateful product
+- Treats sync retries, completion events, and recovery as explicit synchronization states
 
 `React` `TypeScript` `Node.js` `Express` `MongoDB`
 
@@ -47,8 +47,8 @@ Offline-first productivity system built around reliable task execution across un
 Multi-tenant inventory platform for shop owners with separate shop management and optional public storefront discovery.
 
 - Isolates shop and product operations by authenticated owner context
-- Uses JWT authentication, role-based access control, and relational persistence
-- Exposes inventory, product, dashboard, and public-store workflows through a Spring Boot API
+- Separates authentication, authorization, and shop-scoped data access across the backend
+- Organizes the Spring Boot backend around auth, shops, inventory, inquiries, and notifications
 
 `Java` `Spring Boot` `MySQL` `React`
 
@@ -58,12 +58,10 @@ Multi-tenant inventory platform for shop owners with separate shop management an
 
 ## Portfolio
 
-Projects that add engineering breadth without competing with the flagship tier.
-
 | Project | Portfolio role | Status |
 |---|---|---|
 | [DevLens](https://github.com/Mystify7777/devlens) | Developer diagnostics · event-driven tooling | Maturing |
-| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial/product systems | Developing |
+| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial systems | Developing |
 | [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Architecture · systems modeling · experimental presentation | Early / experimental |
 
 ---
