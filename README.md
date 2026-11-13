@@ -16,7 +16,7 @@
 
 ### CyberShield
 
-Trust intelligence platform for assessing suspicious digital targets through layered security analysis.
+Trust intelligence platform for passive URL analysis through TrustScan V3.
 
 - Aggregates TLS, security-header, DNS, and reputation evidence into explainable risk assessments
 - Separates the React client, Express API, and FastAPI AI service into distinct runtime responsibilities
@@ -48,7 +48,7 @@ Multi-tenant inventory platform for shop owners with separate shop management an
 
 - Isolates shop and product operations by authenticated owner context
 - Separates authentication, authorization, and shop-scoped data access across the backend
-- Organizes the Spring Boot backend around auth, shops, inventory, inquiries, and notifications
+- Organizes the Spring Boot backend around authentication, shops, inventory, and inquiries
 
 `Java` `Spring Boot` `MySQL` `React`
 
@@ -61,7 +61,7 @@ Multi-tenant inventory platform for shop owners with separate shop management an
 | Project | Portfolio role | Status |
 |---|---|---|
 | [DevLens](https://github.com/Mystify7777/devlens) | Browser diagnostics · event pipeline and inspection tooling | Maturing |
-| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial reporting and governed workflows | Developing |
+| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Environmental intelligence · geospatial reporting and governed workflows | Developing |
 | [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Systems modeling · registry-driven portfolio environment | Early / experimental |
 
 ---
