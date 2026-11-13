@@ -60,9 +60,9 @@ Multi-tenant inventory platform for shop owners with separate shop management an
 
 | Project | Portfolio role | Status |
 |---|---|---|
-| [DevLens](https://github.com/Mystify7777/devlens) | Developer diagnostics · event-driven tooling | Maturing |
-| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial systems | Developing |
-| [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Architecture · systems modeling · experimental presentation | Early / experimental |
+| [DevLens](https://github.com/Mystify7777/devlens) | Browser diagnostics · event pipeline and inspection tooling | Maturing |
+| [AquaVeda](https://github.com/Mystify7777/aquaveda-v2) | Civic intelligence · geospatial reporting and governed workflows | Developing |
+| [Mystify Observatory](https://github.com/Mystify7777/Mystify) | Systems modeling · registry-driven portfolio environment | Early / experimental |
 
 ---
 
@@ -72,10 +72,9 @@ Earlier or smaller projects retained for breadth and history.
 
 | Project | Description |
 |---|---|
-| [Stardust Typer](https://stardusttyper.netlify.app/) | Typing game |
-| [Weather Dashboard](https://weather-dashboard-codeveda.netlify.app/) | Weather client |
-| [CodeVeda Portfolio](https://codeveda-portfolio.netlify.app/) | Portfolio site |
-| [HaloTasks](https://halotasks.netlify.app/) | To Do Manager |
+| [Stardust Typer](https://github.com/Mystify7777/Stardust-Typer) | Real-time game loop · input handling and scoring logic |
+| [Weather Dashboard](https://github.com/Mystify7777/Codeveda/tree/main/Level2/React/V4/weather-dashboard) | Weather API integration · forecast aggregation and search history |
+| [HaloTasks](https://github.com/Mystify7777/Codeveda/tree/main/Level2/ToDo/V2) | Task management · browser persistence and CRUD interactions |
 
 ---
 
