@@ -91,12 +91,8 @@ Earlier or smaller projects retained for breadth and history.
 
 ---
 
-## Current Work
+## Currently Building
 
-**[AquaVeda](https://github.com/Mystify7777/aquaveda-v2)** &nbsp;·&nbsp; **[DevLens](https://github.com/Mystify7777/devlens)** &nbsp;·&nbsp; **[HaloTask Pro](https://github.com/Mystify7777/Halotask-Pro)**
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/aryan-kumar-mystify7777/) &nbsp;·&nbsp; [Email](mailto:aryan.k.dev.mystify@gmail.com)
+**[AquaVeda](https://github.com/Mystify7777/aquaveda-v2)**
+&nbsp;·&nbsp;
+**[HaloTask Pro](https://github.com/Mystify7777/Halotask-Pro)**
